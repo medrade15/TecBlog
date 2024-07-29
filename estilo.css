@@ -32,6 +32,8 @@ body {
 
  #area-lateral {
     background: orange;
+    float:left;
+    text-align: right;
 }
 
 #area-postagens {
@@ -115,4 +117,3 @@ h2 {
     color: white;
 }
 
-.
