@@ -3,6 +3,6 @@ Projeto realizado em um curso feito na plataforma Udemy, onde foi proposto a cri
 
 ---
 
-<img src="img/img1.png">
+<img src="imagens/img1.png">
 
 ##
