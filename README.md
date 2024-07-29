@@ -1,2 +1,2 @@
-# tecBog
+# tecBlog
  
